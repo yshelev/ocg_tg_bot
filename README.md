@@ -21,4 +21,4 @@
 
 и запустить файл `main.py`.
 
-Затем перейти в Телеграмм и найти в поиске @most_effective_bot или перейти по ![ссылке](t.me/most_effective_bot)
+Затем перейти в Телеграмм и найти в поиске ``@most_effective_bot`` или перейти по [ссылке](https://t.me/most_effective_bot)
