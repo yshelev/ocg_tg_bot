@@ -1,8 +1,12 @@
+import os
+from dotenv import load_dotenv
 from telebot import TeleBot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 import random
 
-bot = TeleBot('7006390524:AAEU9aZEyTWba7pgkfdupr3_VQsXImW9AkA')
+load_dotenv()
+
+BOT_TOKEN = os.getenv("BOT_TOKEN") 
 
 INFO_FILE = "addictive_info.txt"
 
